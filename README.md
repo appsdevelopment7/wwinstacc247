@@ -2,7 +2,7 @@
 <meta property="og:site_name" content="help">
 <meta property="og:title" content="help">
 <meta property="og:type" content="website">
-<meta property="og:image" content="89663605_instagram_logo_976.jpg">
+<meta property="og:image" content="_89663605_instagram_logo_976.jpg">
 <meta property="og:locale" content="en_IN">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="help">
